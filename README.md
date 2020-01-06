@@ -5,7 +5,7 @@
 I recently passed [Exam: AZ-300: Microsoft Azure Architect Technologies](https://docs.microsoft.com/en-gb/learn/certifications/exams/az-300) and this repo was my way of preparing for the exam.
 This exam is one of two to earn **Microsoft Certified: Azure Solutions Architect Expert** certification.
 
-You can clone this repo and mark your progress. If you want use this repo as a starter for your learning process you will need to reset the state of checkboxes. Currently most are marked as done, but you can easily do search and replace in your editor of choice (search for \[x] and replace with [ ], notice there is space between empty brackets).
+You can clone this repo and mark your progress. If you want use this repo as a starter for your learning process you will need to reset the state of checkboxes. Currently most are marked as done, but you can easily do search and replace in your editor of choice (search for \[ ] and replace with [ ], notice there is space between empty brackets).
 
 Feel free to fork or submit PR, but please stick to the format. Please make sure to read [contributing guidelines](CONTRIBUTING.md)
 
@@ -33,15 +33,15 @@ See below announcement from exam page
 Each section of the exam material has its own README file linked below with links to Azure documentation, Plularsight videos (free), labs and other useful info.
 There is also [Exercises folder](/Exercises) with a few scripts (mostly Azure CLI) to deploy resources on Azure quicker.
 
-* [x] [Deploy and configure infrastructure (40-45%)](/1-infrastructure/README.md)
+* [ ] [Deploy and configure infrastructure (40-45%)](/1-infrastructure/README.md)
 
-* [x] [Implement workloads and security (25-30%)](/2-workloads-&-security/README.md)
+* [ ] [Implement workloads and security (25-30%)](/2-workloads-&-security/README.md)
 
-* [x] [Create and deploy apps (5-10%)](/3-create-&-deploy-apps/README.md)
+* [ ] [Create and deploy apps (5-10%)](/3-create-&-deploy-apps/README.md)
 
-* [x] [Implement authentication and secure data (5-10%)](/4-authentication-&-security/README.md)
+* [ ] [Implement authentication and secure data (5-10%)](/4-authentication-&-security/README.md)
 
-* [x] [Develop for the cloud and for Azure storage (15-20%)](/5-develop-cloud-&-storage/README.md)
+* [ ] [Develop for the cloud and for Azure storage (15-20%)](/5-develop-cloud-&-storage/README.md)
 
 ## Resources
 
